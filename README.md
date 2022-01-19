@@ -13,9 +13,6 @@ Very best,
 Team Dutch ELTeC
 
 Karina van Dalen-Oskam
-
 Andreas van Cranenburgh (affiliated with University of Groningen, the Netherlands)
-
 Julia Neugarten
-
 Lisanne van Rossum
